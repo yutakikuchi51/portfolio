@@ -11,7 +11,14 @@ module.exports = {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+        "wood-texture": "url('/images/wood-texture.png')"
       },
+      width: {
+        '168': '42rem',
+      },
+      height: {
+        '27': '6.75rem'
+      }
     },
   },
   plugins: [],
