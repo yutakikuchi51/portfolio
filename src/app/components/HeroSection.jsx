@@ -25,7 +25,7 @@ const HeroSection = () => {
                 <div className="place-self-center text-center sm:text-left  col-span-12 sm:col-span-6 sm:order-1 order-2">
                     <h1 className="text-[#2c2319] mb-4 text-4xl sm:text-5x; lg:text-6xl font-extrabold mt-5">
                         <span className="bg-clip-text text-[#95a293]">
-                            Hello, I'm{" "}
+                            Hello, I&apos;m{" "}
                         </span>
                         <br></br>
                         <TypeAnimation
